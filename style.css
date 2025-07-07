@@ -2,11 +2,11 @@ body {
     font-family: sans-serif;
     margin: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #0a7507;
 }
 
 header {
-    background-color: #333;
+    background-color: #0a7507;
     color: white;
     padding: 1em 0;
     text-align: center;
@@ -41,7 +41,7 @@ section {
 }
 
 footer {
-    background-color: #333;
+    background-color: #0a7507;
     color: white;
     text-align: center;
     padding: 1em 0;
